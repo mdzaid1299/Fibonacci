@@ -5,7 +5,7 @@
 
 take 3 variable n1 n2 n3
 
-step1 : fisrst print n1= 0 and n2 =1 value,
+step1 : first print n1= 0 and n2 =1 value,
 
 step2 : take input how many number user want to print , int number = 10;
 
