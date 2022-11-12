@@ -12,9 +12,10 @@ public class Fibo {
         int count = scanner.nextInt();
         for (int i = 2; i < count; i++) {
             c = a + b;
-            System.out.println("c = " + c);
-            b = a;
-            c = b;
+            System.out.println(c + "  ");
+
+            b = c;
+            a = b;
 
         }
         System.out.println(a + b  );

@@ -9,8 +9,7 @@ step1 : fisrst print n1= 0 and n2 =1 value,
 
 step2 : take input how many number user want to print , int number = 10;
 
-step 3 : take for loop from i=2 to i < number , 
-because 0 and 1 index value already printed above for loop
+step 3 : take for loop from i=2 to i < number , because 0 and 1 index value already printed above for loop
 
 step 4:  n3 = n1 + n2;
 
